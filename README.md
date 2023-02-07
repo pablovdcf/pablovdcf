@@ -1,5 +1,5 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/pablovdcf/pablovdcf/blob/main/Pablo%20Zarautz.jpeg?raw=true" />
+<p align="center" width="500">
+   <img align="center" width="400" src="https://github.com/pablovdcf/pablovdcf/blob/main/Pablo%20Zarautz.jpeg?raw=true"/>
    <h3 align="center">¡Hey 👋! Soy Pablo 👨🏻‍💻</h3>
 </p>
 
