@@ -5,6 +5,11 @@
 
 <p align="center">Soy <strong>Data Scientist</strong> actualmente estudio el máster de Data Science con KSchool.<br /></p>
 <p align="center">
+
+I'm working on it:
+    <div>
+       ![](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
+       </div>
 <!--
 **pablovdcf/pablovdcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
