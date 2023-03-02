@@ -19,7 +19,7 @@
 - Análisis de datos 📊
 - SQL 🔍
 - Visualización de datos 📈
-- Herramientas de la ciencia de datos como pandas, NumPy, Matplotlib, etc. 🧰
+- Herramientas para data science como pandas, NumPy, Matplotlib, etc. 🧰
 - Git y control de versiones 🗃️
 
 ## Contacto 📞
