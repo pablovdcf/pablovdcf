@@ -1,30 +1,30 @@
 <p align="center" width="500">
    <img align="center" width="400" src="https://github.com/pablovdcf/pablovdcf/blob/main/Pablo%20Zarautz.jpeg?raw=true"/>
-   <h3 align="center">¡Hey 👋! Soy Pablo 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! Pablo it's here 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Data Scientist</strong> actualmente estudio el máster de Data Science con KSchool.<br /></p>
+<p align="center">I'm <strong>Data Scientist</strong> studying for a Master's degree in Data Science with KSchool.<br /></p>
 
 <p align="center">
 <hr>
   <br>
-  <em>Actualmente trabajo como Deployment Specialist desde <strong>Ricoh</strong> para <strong>Telefónica Global Solutions</strong></em>
+  <em>I am currently working as a Deployment Specialist at <strong>Ricoh</strong> for <strong>Telefónica Global Solutions</strong></em>
   <br>
 
 
-## Habilidades técnicas 💻
+## Hard Skills 💻
 
 - Python 🐍
 - Machine Learning 🤖
-- Análisis de datos 📊
+- Data Analysis 📊
 - SQL 🔍
-- Visualización de datos 📈
-- Herramientas para data science como pandas, NumPy, Matplotlib, etc. 🧰
-- Git y control de versiones 🗃️
+- Data Visualization 📈
+- Tools for data science like pandas, NumPy, Matplotlib, etc. 🧰
+- Git, version control 🗃️
 
-## Contacto 📞
+## Contact 📞
 
-¡Si estás interesado en hablar conmigo sobre cualquier cosa relacionada con la ciencia de datos, no dudes en contactarme en pablo.villardelcastillo@gmail.com
+If you are interested in talking to me about anything related to data science, please feel free to contact me at pablo.villardelcastillo@gmail.com
 
 <img align="center" width="400" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif"/>
 </p>
@@ -35,9 +35,9 @@
 - [Nombre del proyecto](enlace al proyecto): Breve descripción del proyecto y las habilidades utilizadas.
 - [Nombre del proyecto](enlace al proyecto): Breve descripción del proyecto y las habilidades utilizadas.
 
-## Experiencia profesional 💼
+## Professional Experience 💼
 
-- [Ricoh](https://www.ricoh.es/), Deployment Specialist en Telefónica Global Solutions, desde [mes, año]: Como Deployment Specialist, he adquirido experiencia en el despliegue y mantenimiento de infraestructuras de red y servicios cloud para una gran empresa de telecomunicaciones. Me he encargado de la resolución de incidencias, el seguimiento de los proyectos y la mejora continua de los servicios prestados.
+- [Ricoh](https://www.ricoh.es/), Deployment Specialist in Telefónica Global Solutions, from [mes, año]: Como Deployment Specialist, he adquirido experiencia en el despliegue y mantenimiento de infraestructuras de red y servicios cloud para una gran empresa de telecomunicaciones. Me he encargado de la resolución de incidencias, el seguimiento de los proyectos y la mejora continua de los servicios prestados.
 -->
 
 
