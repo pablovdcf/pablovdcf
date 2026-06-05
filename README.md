@@ -120,11 +120,12 @@ Small projects to practice supervised learning, data preprocessing, model evalua
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pablovdcf&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablovdcf&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-Automation%20Tools-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Data%20Engineering-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -162,4 +163,3 @@ I'm always open to talking about:
 <p align="center">
   <em>Thanks for visiting my profile. Keep building, keep learning 🚀</em>
 </p>
-```
